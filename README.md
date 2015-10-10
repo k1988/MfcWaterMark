@@ -1,0 +1,2 @@
+# MfcWaterMark
+基于抽取的TortoiseSvn的4个代码文件，实现的在图片上鼠标运动产生水面上的波纹效果。
